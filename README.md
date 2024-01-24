@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=do2523" alt="do2523" /></a> </p>
 
-- 🔭 I’m currently working on **Hate-Speech**
+- 🔭 I’m currently working on **HSP**
 
 - 🌱 I’m currently learning **Firbase**
 
