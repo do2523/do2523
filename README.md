@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **HSP**
 
-- 🌱 I’m currently learning **Firbase**
+- 🌱 I’m currently learning **Firebase**
 
 - 📫 How to reach me **do262431@gmail.com**
 
