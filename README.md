@@ -17,4 +17,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=do2523&show_icons=true&locale=en&layout=compact" alt="do2523" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Do2523&theme=dark" alt="GitHub Streak" /></a>
+<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Do2523&theme=dark" alt="GitHub Streak" /></a>
