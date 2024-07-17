@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Ocampo</h1>
 <h3 align="center">A Computer Science Undergraduate</h3>
 
-- I’m currently working on [A To-Do App](ADDHERE)
+- I’m currently working on a [React To-Do List App](ADDHERE)
 
-- I’m currently learning **React**
+- I’m currently Improving in **Data Structures and Algorithms**
 
 - Reach me by email **do262431@gmail.com**
 
