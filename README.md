@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Ocampo</h1>
-<h3 align="center">A Computer Science Undergraduate Student at UCF</h3>
+<h3 align="center">A Computer Science Undergraduate at UCF</h3>
 
 - I’m currently working on a [React To-Do List App](ADDHERE)
 
