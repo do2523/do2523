@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Ocampo</h1>
 <h3 align="center">A Computer Science Undergraduate at UCF</h3>
 
-- I’m currently working on a [Video Web App](ADDHERE)
+- ShellHacks is in less than a week!
 
 - I’m currently Improving in **Data Structures and Algorithms**
 
