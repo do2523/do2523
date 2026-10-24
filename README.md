@@ -1,12 +1,8 @@
-<h1 align="center">Hi 👋, I'm Daniel Ocampo</h1>
-<h3 align="center">A Computer Science Undergraduate at UCF</h3>
+<h1 align="center">Daniel Ocampo</h1>
+<h3 align="center">Computer Science Undergraduate at UCF</h3>
 
 
-- I’m currently Improving in **Data Structures and Algorithms**
-
-- Reach me by email **do262431@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniel-ocampo-ucf-cs-swe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-ocampo-ucf-cs-swe" height="30" width="40" /></a>
 </p>
